@@ -1,0 +1,10 @@
+<ValidationInfo>
+  <DesignValid>true</DesignValid>
+  <IgnoreUnclassifiedObjects>false</IgnoreUnclassifiedObjects>
+  <SkipIntersectionChecks>false</SkipIntersectionChecks>
+  <EntityCheckLevel>Strict</EntityCheckLevel>
+  <ValidationLevel>Perform full validations with standard port validations</ValidationLevel>
+  <Messages>
+    <Message>[warning] Warning - Boundary &apos;PerfE6&apos; and Boundary &apos;LumpRLC1&apos; overlap.  </Message>
+  </Messages>
+</ValidationInfo>
