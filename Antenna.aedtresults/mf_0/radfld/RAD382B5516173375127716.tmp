@@ -5,8 +5,8 @@ $begin 'RFSM'
 	$end 'CustomSurfs'
 	$begin 'SetupSolns'
 		$begin 'SetupSolnEntry'
-			Key(ParentID=0, VersID=4, ParentID=277, VersID=2231, Context='0:0', DesVarn='', IntrVarn='Freq=\'26GHz\'')
-			SetupSolnFBOFile='62806316173404559244.tmp'
+			Key(ParentID=0, VersID=7, ParentID=277, VersID=2511, Context='0:0', DesVarn='L=\'3.9mm\'', IntrVarn='Freq=\'26GHz\'')
+			SetupSolnFBOFile='6B168812173412654016.tmp'
 		$end 'SetupSolnEntry'
 	$end 'SetupSolns'
 	$begin 'MonostaticRcsSolns'
